@@ -1,0 +1,26 @@
+curso de html
+
+arquivos estaticos;
+ são arquivos ou aplicações que serão colocados em um servidor para que quando
+o cliente acessar o site esse mesmo servidor possa enviar para o cliente
+a aplicação sere para fornecer uma table ou criar cadastrdo, existem também 
+imagnes ou até
+peguenos videos
+
+diferentes resoluçoes, deve ser considerado na criaçãos de websites 
+desing responsivo
+ou
+responsividade (arquivos para pc e notebooks e também para smartphones)
+
+navegadores:
+
+são programas criados por empresas, utilizado para abrir/execultar arquivos
+
+seguem padrões (w3c) porem, sempre tem uma diferença ou outra deinterpretação
+
+tambem chamados de <browsers>
+
+iniciou com o mosaic, passou para o netscape, e hoje temos uma variedade de navegadores disponiveis
+
+gratuitos
+
